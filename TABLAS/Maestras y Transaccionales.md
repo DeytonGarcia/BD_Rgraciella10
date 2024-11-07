@@ -11,4 +11,10 @@ Contiene información sobre los platos disponibles en el restaurante. Guarda el 
 
 ![Captura de pantalla 2024-11-07 091807](https://github.com/user-attachments/assets/7b3fa763-c6eb-4fe6-8008-fd1e605efdc4)
 
+## TABLA TRANSACCIONAL ORDENES  
+Registra los pedidos realizados por los clientes. Incluye el identificador del cliente, nombre del camarero, plato del menú pedido y fecha del pedido. Esta tabla se vincula con person para identificar al cliente y con menu para detallar el plato ordenado.
+
+![Captura de pantalla 2024-11-07 091852](https://github.com/user-attachments/assets/42fc50ee-48a0-4b48-a2dc-61092673bf18)
+
+
 

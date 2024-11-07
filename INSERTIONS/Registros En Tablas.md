@@ -1,4 +1,4 @@
-## <span style="color: red;">Inserciones de Datos</span>
+## <span style="color: red;">INSERCCION DE DATOS</span>
 
 ### <span style="color: red;">Inserción de Registros en `person`</span>
 

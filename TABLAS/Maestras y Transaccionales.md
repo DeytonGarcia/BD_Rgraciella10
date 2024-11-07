@@ -29,5 +29,5 @@ Almacena información específica sobre los detalles de una reserva, como la can
 ## TABLA TRANSACCIONAL RESERVA 
 Gestiona las reservas de los clientes. Incluye el cliente, la fecha y hora de la reserva, y un vínculo a los detalles de la reserva en reservation_detail, para especificar los menús reservados y su cantidad.
 
-![image](https://github.com/user-attachments/assets/bc79e1cc-4d95-4327-b0f6-428b85a96f17)
+![Captura de pantalla 2024-11-07 092324](https://github.com/user-attachments/assets/a9e4e717-cb37-4cf4-a307-ed5df42ca774)
 

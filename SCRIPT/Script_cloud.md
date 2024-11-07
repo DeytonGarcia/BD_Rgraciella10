@@ -86,7 +86,7 @@ CREATE TABLE reservations (
 );
 
 
-# TABLA MAESTRA PERSONA 
+-- TABLA MAESTRA PERSONA 
 -- Inserción de Registros en `person`
 INSERT INTO Rgraciella.person VALUES (1, 'CLIENTE', 'Pedro', 'Alvarez', 'Calle Lima 101', '123456789', 'pedro.alvarez@example.com', TO_DATE('1988-01-10', 'YYYY-MM-DD'), 'DNI', '11223344');
 INSERT INTO Rgraciella.person VALUES (2, 'CLIENTE', 'Maria', 'Gonzalez', 'Calle Santa 202', '987654321', 'maria.gonzalez@example.com', TO_DATE('1990-02-15', 'YYYY-MM-DD'), 'DNI', '22334455');

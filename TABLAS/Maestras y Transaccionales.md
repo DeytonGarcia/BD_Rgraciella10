@@ -1,5 +1,5 @@
-#TABLAS MAESTRAS Y TRANSACCIONALES
+# Nombre del Proyecto
 
-#MAESTRO TABLA PERSON 
+Breve descripción del proyecto, explicando su propósito y lo que soluciona. También puedes incluir el contexto en el que se utiliza.
 
-Almacena información personal sobre los individuos asociados con el restaurante, como clientes o empleados. Incluye detalles como tipo de persona, nombres, apellidos, dirección, teléfono, email, fecha de nacimiento, tipo y número de documento.
+![Logo o Imagen del Proyecto](ruta/a/tu/logo.png) <!-
